@@ -189,6 +189,14 @@ Quy trình publish blog lên WordPress với 52-item checklist, và content cale
 | [03-social-media-operations.md](ads-social/03-social-media-operations.md) | Daily ops, calendar tháng 2, community & crisis management |
 | [04-ads-optimization.md](ads-social/04-ads-optimization.md) | KPI tracking, report templates, optimization playbook, ROI calculator |
 
+### 📋 Data Collection
+
+Template thu thập số liệu thực tế từ website, e-commerce, SEO, social media và business. Team điền trực tiếp vào file rồi commit lên repo để phân tích và điều chỉnh chiến lược.
+
+| File | Mô tả |
+| --- | --- |
+| [data-collection-template.md](data-collection/data-collection-template.md) | Template thu thập dữ liệu 6 mục: GA4 Analytics, WooCommerce, GSC SEO, Social Media, Business Data, Technical — có hướng dẫn lấy dữ liệu và bảng để điền |
+
 ## 🚀 Bước tiếp theo — Triển khai thực tế
 
 > Tất cả tài liệu hướng dẫn đã sẵn sàng. Dưới đây là thứ tự triển khai khuyến nghị.
@@ -263,6 +271,7 @@ Quy trình publish blog lên WordPress với 52-item checklist, và content cale
 | **Social Media** | [03-social-media-operations.md](ads-social/03-social-media-operations.md) | [social-media-calendar-month1.md](marketing/05-digital-marketing/social-media-calendar-month1.md), [social-media-templates.md](marketing/05-digital-marketing/social-media-templates.md) |
 | **Tối ưu quảng cáo** | [04-ads-optimization.md](ads-social/04-ads-optimization.md) | [ads-budget-proposal.md](marketing/05-digital-marketing/ads-budget-proposal.md) |
 | **Báo cáo & KPIs** | [06-seo-monitoring.md](seo-impl/06-seo-monitoring.md) | [kpis-dashboard.md](marketing/06-measurement/kpis-dashboard.md), [weekly-report-template.md](marketing/06-measurement/weekly-report-template.md), [okrs-q1.md](marketing/06-measurement/okrs-q1.md) |
+| **Thu thập dữ liệu** | [data-collection-template.md](data-collection/data-collection-template.md) | — |
 | **Migration Next.js** | [nextjs-migration-analysis.md](migration-analysis/nextjs-migration-analysis.md) | — |
 
 ### Theo vai trò
