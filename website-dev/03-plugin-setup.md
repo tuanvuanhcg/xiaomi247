@@ -195,7 +195,7 @@
 ### Cấu hình Scan
 
 **Wordfence → Scan:**
-- ✅ Scan Schedule: **Daily** (tự động)
+- ✅ Scan Schedule: **Weekly** (tự động, Chủ nhật 3:00 AM)
 - ✅ Scan Type: **Standard Scan**
 - Scan Options:
   - ✅ Scan core files against repository versions
@@ -211,7 +211,7 @@
 #### Brute Force Protection
 - ✅ Enable Brute Force Protection: **ON**
 - Lock out after how many login failures: **5**
-- Lock out after how many forgot password attempts: **3**
+- Lock out after how many forgot password attempts: **5**
 - Count failures over what time period: **4 hours**
 - Amount of time a user is locked out: **4 hours**
 - ✅ Immediately lock out invalid usernames: **ON**
@@ -221,6 +221,8 @@
 - Dùng app: Google Authenticator hoặc Authy
 - Setup: Login Security → Two-Factor Authentication → Scan QR code
 - ⚠️ **LƯU recovery codes** ở nơi an toàn!
+
+> 🔗 Xem cấu hình chi tiết tại [Hướng dẫn Bảo mật](05-security.md#3-wordfence-configuration)
 
 ### Cài đặt bổ sung
 - **Wordfence → All Options → General:**
