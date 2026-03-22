@@ -6,6 +6,17 @@
 
 Repository này chứa toàn bộ tài liệu chiến lược, kế hoạch triển khai và nội dung marketing cho **xiaomi247.com**. Mục tiêu là xây dựng thương hiệu, tối ưu website, và tăng trưởng doanh thu thông qua các kênh digital.
 
+## 🔗 Liên kết Dự án
+
+Dự án Xiaomi247 được quản lý trên 2 repositories riêng biệt:
+
+| Repository | Platform | URL | Nội dung |
+| --- | --- | --- | --- |
+| **xiaomi247** (repo này) | GitHub | [github.com/tuanvuanhcg/xiaomi247](https://github.com/tuanvuanhcg/xiaomi247) | Tài liệu chiến lược — Marketing, SEO, Website Dev, Ads, Content |
+| **xiaomi247** (WordPress) | GitLab | [gitlab.com/tuanvuanhcg/xiaomi247](https://gitlab.com/tuanvuanhcg/xiaomi247) | Source code WordPress — Themes, Plugins, WooCommerce, wp-content |
+
+> **Lưu ý:** Hai repos có tên giống nhau nhưng nội dung hoàn toàn khác. Repo GitHub chứa tài liệu hướng dẫn, repo GitLab chứa mã nguồn website. Không merge hay push chéo giữa 2 repos.
+
 ## 🏢 Thông tin Brand
 
 |  |  |
