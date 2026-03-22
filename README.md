@@ -197,6 +197,14 @@ Template thu thập số liệu thực tế từ website, e-commerce, SEO, socia
 | --- | --- |
 | [data-collection-template.md](data-collection/data-collection-template.md) | Template thu thập dữ liệu 6 mục: GA4 Analytics, WooCommerce, GSC SEO, Social Media, Business Data, Technical — có hướng dẫn lấy dữ liệu và bảng để điền |
 
+### 📊 Marketing Analysis
+
+Phân tích đánh giá toàn diện chiến lược marketing online. Bao gồm chấm điểm 8 tiêu chí, SWOT, ROI dự kiến, so sánh vs best practices, và khuyến nghị điều chỉnh. **Đọc sau khi đã hiểu tổng quan dự án.**
+
+| File | Mô tả |
+| --- | --- |
+| [marketing-strategy-evaluation.md](marketing-analysis/marketing-strategy-evaluation.md) | Phân tích & đánh giá chiến lược marketing — điểm mạnh, điểm yếu, SWOT, ROI projection, ma trận quyết định, khuyến nghị |
+
 ## 🚀 Bước tiếp theo — Triển khai thực tế
 
 > Tất cả tài liệu hướng dẫn đã sẵn sàng. Dưới đây là thứ tự triển khai khuyến nghị.
@@ -272,6 +280,7 @@ Template thu thập số liệu thực tế từ website, e-commerce, SEO, socia
 | **Tối ưu quảng cáo** | [04-ads-optimization.md](ads-social/04-ads-optimization.md) | [ads-budget-proposal.md](marketing/05-digital-marketing/ads-budget-proposal.md) |
 | **Báo cáo & KPIs** | [06-seo-monitoring.md](seo-impl/06-seo-monitoring.md) | [kpis-dashboard.md](marketing/06-measurement/kpis-dashboard.md), [weekly-report-template.md](marketing/06-measurement/weekly-report-template.md), [okrs-q1.md](marketing/06-measurement/okrs-q1.md) |
 | **Thu thập dữ liệu** | [data-collection-template.md](data-collection/data-collection-template.md) | — |
+| **Đánh giá chiến lược** | [marketing-strategy-evaluation.md](marketing-analysis/marketing-strategy-evaluation.md) | [kpis-dashboard.md](marketing/06-measurement/kpis-dashboard.md), [okrs-q1.md](marketing/06-measurement/okrs-q1.md) |
 | **Migration Next.js** | [nextjs-migration-analysis.md](migration-analysis/nextjs-migration-analysis.md) | — |
 
 ### Theo vai trò
