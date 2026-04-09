@@ -216,6 +216,18 @@ Phân tích đánh giá toàn diện chiến lược marketing online. Bao gồm
 | --- | --- |
 | [marketing-strategy-evaluation.md](marketing-analysis/marketing-strategy-evaluation.md) | Phân tích & đánh giá chiến lược marketing — điểm mạnh, điểm yếu, SWOT, ROI projection, ma trận quyết định, khuyến nghị |
 
+### 🔄 Sales Funnel & Email Marketing
+
+Chiến lược phễu bán hàng toàn diện từ traffic đến repeat purchase. Bao gồm email automation, lead magnets, CRO testing, và loyalty program. **Đọc sau khi đã triển khai website và bắt đầu có traffic.**
+
+| File | Mô tả |
+| --- | --- |
+| [01-sales-funnel-strategy.md](sales-funnel/01-sales-funnel-strategy.md) | Phễu 5 giai đoạn, landing pages, cart recovery, upsell/cross-sell, GA4 funnel |
+| [02-email-marketing.md](sales-funnel/02-email-marketing.md) | 6 automation flows, email templates, segmentation, 23+ subject lines |
+| [03-cro-testing-roadmap.md](sales-funnel/03-cro-testing-roadmap.md) | 12-week A/B testing plan, 18 quick wins, heatmap setup, CRO audit |
+| [04-retention-loyalty.md](sales-funnel/04-retention-loyalty.md) | Loyalty program (points/tiers), referral, CLV analysis, win-back |
+| [05-lead-magnets.md](sales-funnel/05-lead-magnets.md) | 6 lead magnets, popup strategy, landing pages, nurture flows |
+
 ## 🚀 Bước tiếp theo — Triển khai thực tế
 
 > Tất cả tài liệu hướng dẫn đã sẵn sàng. Dưới đây là thứ tự triển khai khuyến nghị.
@@ -292,6 +304,8 @@ Phân tích đánh giá toàn diện chiến lược marketing online. Bao gồm
 | **Báo cáo & KPIs** | [06-seo-monitoring.md](seo-impl/06-seo-monitoring.md) | [kpis-dashboard.md](marketing/06-measurement/kpis-dashboard.md), [weekly-report-template.md](marketing/06-measurement/weekly-report-template.md), [okrs-q1.md](marketing/06-measurement/okrs-q1.md) |
 | **Thu thập dữ liệu** | [data-collection-template.md](data-collection/data-collection-template.md) | — |
 | **Đánh giá chiến lược** | [marketing-strategy-evaluation.md](marketing-analysis/marketing-strategy-evaluation.md) | [kpis-dashboard.md](marketing/06-measurement/kpis-dashboard.md), [okrs-q1.md](marketing/06-measurement/okrs-q1.md) |
+| **Phễu bán hàng** | [01-sales-funnel-strategy.md](sales-funnel/01-sales-funnel-strategy.md) | [02-email-marketing.md](sales-funnel/02-email-marketing.md), [05-lead-magnets.md](sales-funnel/05-lead-magnets.md) |
+| **CRO & Retention** | [03-cro-testing-roadmap.md](sales-funnel/03-cro-testing-roadmap.md) | [04-retention-loyalty.md](sales-funnel/04-retention-loyalty.md) |
 | **Migration Next.js** | [nextjs-migration-analysis.md](migration-analysis/nextjs-migration-analysis.md) | — |
 
 ### Theo vai trò
